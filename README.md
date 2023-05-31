@@ -1,6 +1,1 @@
-My first readme
-^c
-^C
-dir
-[3~[3~[3~
-clear
+another readme for 0x01-git 
